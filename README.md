@@ -13,3 +13,6 @@ Developed October 2021 - November 2021.
 3. Change the directory to the folder containing the unzipped contains _(example: cd Downloads/Top-50-Songs-on-Spotify-main)_
 4. Enter command `python3 -m http.server`
 5. Go to URL `localhost:8000` in your browser
+
+# Preview
+![The first screen of the application.](https://i.imgur.com/mnre8tG.png)
